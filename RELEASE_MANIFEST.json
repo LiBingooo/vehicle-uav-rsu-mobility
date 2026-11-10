@@ -1,0 +1,165 @@
+{
+  "status": "paper under review; trajectory and visualization components only",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 170,
+      "sha256": "ea7ce6693686307bb6a0e5ef3adafb3389024bad35f3466d66fea7b56cea455e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3806,
+      "sha256": "6251538c61ea4302754e05a48e96c4f158d72222a0da750b6d6abc200c5dc93a"
+    },
+    {
+      "path": "README_zh.md",
+      "bytes": 3705,
+      "sha256": "d629580b3b9397ac74f2e5fe13fd97585889681f01b247f29b42f9e01eb66dc2"
+    },
+    {
+      "path": "assets/demo/playback.html",
+      "bytes": 869026,
+      "sha256": "4dfb256b65e41a2996ca7e647848e94c0eb1ababf439a7205cbf15dab83805ee"
+    },
+    {
+      "path": "assets/demo/spatial_view.gif",
+      "bytes": 1230911,
+      "sha256": "476eed99213b40f5f4dc5fe1c3084c3485ede78d2fbc895670b5be94676670fd"
+    },
+    {
+      "path": "assets/demo/spatial_view.png",
+      "bytes": 189759,
+      "sha256": "d15f02466964d3a7e1ef4ef781e40dc1233a2a67bd0f4f0e198d144894c1498a"
+    },
+    {
+      "path": "assets/demo/top_view.png",
+      "bytes": 106599,
+      "sha256": "e765337d4fc3256f515b96d41ffaf1e1a247cb753f0eabee335dfa6e0219714a"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 383,
+      "sha256": "345ab3d4941052f6aabdc0e2590ef7f9cec41dde15c0da52babb07088f357884"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 2500,
+      "sha256": "0c6437022207a23030fbc7fb2b99befbca4ae234f5c7b17751aca75922cbcf4c"
+    },
+    {
+      "path": "docs/DATA_POLICY.md",
+      "bytes": 606,
+      "sha256": "9251e4e716fc0395a231cab1afa87ccce9f00605719ea5b26e011258814e3ac0"
+    },
+    {
+      "path": "docs/HIGHD.md",
+      "bytes": 1790,
+      "sha256": "85552c732bb9bf36c86671d87dad0085b88ee5e5af2af142cf5a85b906431cc1"
+    },
+    {
+      "path": "docs/AVAILABILITY.md",
+      "bytes": 266,
+      "sha256": "b1ed90767cdb0298959241dadffb28234b28c6fc649d04a8bffadabb7ce9ab59"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 1382,
+      "sha256": "6e396de9fe1373c646b41c194e24c03ed106a76b6c5b99a711144f10b489db1f"
+    },
+    {
+      "path": "docs/REPLAY.md",
+      "bytes": 2482,
+      "sha256": "f7f5c72ba0efebd915c4f906c666a6389bf571e46b34e2491e19439eb09ab393"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 521,
+      "sha256": "ae1116f59bcab216ff8d83f11fc6d74447937abadbf2d99509fca2219d0ab4ec"
+    },
+    {
+      "path": "requirements-viz.txt",
+      "bytes": 59,
+      "sha256": "fc4f46983934b7cedc6863fad0a09091aefd0d026f74d73ac96b7a8660e45cc7"
+    },
+    {
+      "path": "scripts/package_release.py",
+      "bytes": 2429,
+      "sha256": "a636983a48d42f39ed9e300a60036c6d8dc745f9ca404dc116d5a2447f537c71"
+    },
+    {
+      "path": "scripts/preview.py",
+      "bytes": 258,
+      "sha256": "08cb577b61b186785347fa3b7614693a0422eda29f73410f83ec9c8aec9c37ec"
+    },
+    {
+      "path": "scripts/prepare_replay.py",
+      "bytes": 783,
+      "sha256": "d62bc124c19694f65b9e916c31c4fc0c27bdef6e2a45c1415a5378439f4937c7"
+    },
+    {
+      "path": "src/vec_mobility/__init__.py",
+      "bytes": 78,
+      "sha256": "c5db47e08c9d31cbb020cc364b3a60dfa89c288b61fb20ff5b2772b75ac57b5a"
+    },
+    {
+      "path": "src/vec_mobility/__main__.py",
+      "bytes": 31,
+      "sha256": "11cf323249f4ba4e79c9fb7660c0979fc91a3822bc5362286376b69808b41195"
+    },
+    {
+      "path": "src/vec_mobility/cli.py",
+      "bytes": 3602,
+      "sha256": "7d2adaca42dc99d777c05d652bd25aad96b16d02d92b473759ac79a4a0cd1260"
+    },
+    {
+      "path": "src/vec_mobility/config.py",
+      "bytes": 139,
+      "sha256": "cfd566ef80591dd430c9ebd57ce6abd2970bc40a7e5a6463d089abe4d6523a09"
+    },
+    {
+      "path": "src/vec_mobility/rsu.py",
+      "bytes": 356,
+      "sha256": "2cf2bbbed1eb58fad4dd882c68f8542fb51ae37e39b3d4f0be5ff2e896cfcf21"
+    },
+    {
+      "path": "src/vec_mobility/replay.py",
+      "bytes": 2103,
+      "sha256": "1591b94234da68b559680f1eb9d0d22e67f67e0efd585dfa7b31ee239c9687d0"
+    },
+    {
+      "path": "src/vec_mobility/preprocess.py",
+      "bytes": 7838,
+      "sha256": "bd9bdedeeefe8548de3e8fe83502f782583fe347464988c6cc05c6ecb71bb137"
+    },
+    {
+      "path": "src/vec_mobility/uav.py",
+      "bytes": 1239,
+      "sha256": "31f20c853ddb6435868b90c06ccca28083e721509c648ba034c9ed563d9315af"
+    },
+    {
+      "path": "src/vec_mobility/vehicles.py",
+      "bytes": 2241,
+      "sha256": "23790cc79a11f1690964eb57a54da5cc2700aee5adf7a44f5f49c24b23ca5bfb"
+    },
+    {
+      "path": "src/vec_mobility/visualization/__init__.py",
+      "bytes": 54,
+      "sha256": "8614af71f1639c18eaeab1dc89d24f757f05db460d6922b27721798b1d98f945"
+    },
+    {
+      "path": "src/vec_mobility/visualization/html.py",
+      "bytes": 5403,
+      "sha256": "b6634e00945da3bfc2b5948247afb0633c72336d3372de94cd795da7fe013569"
+    },
+    {
+      "path": "src/vec_mobility/visualization/spatial.py",
+      "bytes": 8812,
+      "sha256": "8184820646ac8519bffd32d2a5bc8ecb9b8f9508b7ae6361f3801f3d8c330f2b"
+    },
+    {
+      "path": "tests/test_mobility.py",
+      "bytes": 3952,
+      "sha256": "6c95185f21fd318beaaa2e8d0a1d18253bf5fcb56998036141dcba8fca0df9b2"
+    }
+  ]
+}
